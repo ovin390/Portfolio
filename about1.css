@@ -173,11 +173,12 @@
 .bn30:hover .text {
   background-image: linear-gradient(-45deg, #4568dc, #b06ab3);
 }
-@media only screen and (max-width:768px) {
+@media only screen and   (max-width:768px) {
   .title{
     width: 100%;
   }
   .b{
+    justify-content: center;
     width: 350px;
     height: 350px;
     margin-left: 45px;
@@ -187,4 +188,3 @@
   }
  
 }
-
