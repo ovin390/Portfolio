@@ -174,7 +174,7 @@ font-weight: 600;
 /*.about{
   font-family: 'Ubuntu',sans-serif;
 }*/
-@media screen and (max-width:320px) {
+@media screen and (max-width:768px) {
     .heroimg{
       top:80%;
       left:0%; 
