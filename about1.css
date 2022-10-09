@@ -187,3 +187,18 @@
   }
  
 }
+@media only screen and (min-width: 600px)
+{
+  .title{
+    width: 100%;
+  }
+  .b{
+    justify-content: center;
+    width: 350px;
+    height: 350px;
+    margin-left: 135px;
+  }
+  .bn30{
+    margin-left: 105px;
+  }
+}
