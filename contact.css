@@ -60,7 +60,7 @@ img{
     cursor: pointer;
     font-family: 'Ubuntu',sans-serif;
 }
-@media only screen and (max-width:768px) {
+@media only screen and (max-width:425px) {
     .footer{
         height: 470px;
         margin-top: 30px;
