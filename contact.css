@@ -62,7 +62,7 @@ img{
 }
 @media only screen and (max-width:425px) {
     .footer{
-        height: 470px;
+        height: auto;
         margin-top: 30px;
         
     }
