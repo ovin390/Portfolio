@@ -62,8 +62,8 @@ img{
 }
 @media  screen  (max-width:425px) {
     .footer{
-        height: auto;
-        margin-top: 30px;
+        
+        margin-top: -10px;
         
     }
 }
