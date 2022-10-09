@@ -60,9 +60,10 @@ img{
     cursor: pointer;
     font-family: 'Ubuntu',sans-serif;
 }
-@media screen and (max-width:320px) {
+@media screen and (max-width:480px) {
     .footer{
         height: 270px;
+        margin-top: 30px;
         
     }
 }
